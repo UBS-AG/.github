@@ -35,6 +35,10 @@ The [sparkutils organisation](https://github.com/sparkutils/) represents a colle
 - [Frameless](https://github.com/sparkutils/frameless) A fork of the excellent [Frameless](https://github.com/typelevel/frameless) library, providing wider version support for Spark 3.5, 4 and Databricks runtimes
 - [Kogito-4-Spark](https://sparkutils.github.io/kogito-4-spark/) An initial version providing a Spark integration with the [Kogito](https://kogito.kie.org/) [DMN](https://www.omg.org/dmn/) engine – releasing soon.
 
+### FINOS CALM
+
+Contribution to the [CALM Project](https://github.com/finos/architecture-as-code) providing unique-id labelling to the CALM Widgets.
+
 ### Coming Soon
 
 Contributions to the [FINOS Common Domain Model](https://github.com/UBS-AG/finos_common-domain-model) and [backstage_community-plugins](https://github.com/UBS-AG/backstage_community-plugins)
