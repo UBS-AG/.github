@@ -10,7 +10,6 @@ The [UBS AG](http://www.ubs.com/) GitHub organisation represents our firm’s co
 * UBS also joined the Green Software Foundation in 2022 as a steering member, contributing to their specifications
 
 * UBS, in 2023, open-sourced the initial [sparkutils](https://github.com/sparkutils/) project, [Quality](https://sparkutils.github.io/quality/),
-* In addition to our FINOS board member participation over the years we’re also active on FINOS’ [Technical Oversight Committee](https://github.com/finos/technical-oversight-committee),
 * 2025 saw UBS continue its support of the OSS Community joining the [CNCF](https://www.cncf.io/) as a Silver member.
 
 We have also significantly contributed over the years to [Scales XML](https://chris-twiner.github.io/scalesXml/), the wider [sparkutils](https://github.com/sparkutils/) organisation, several [terraform azure provider](https://github.com/hashicorp/terraform-provider-azurerm/) contributions, to [Apache Spark](https://spark.apache.org/) 4 and two new DMN projects as well.
