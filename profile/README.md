@@ -39,6 +39,10 @@ The [sparkutils organisation](https://github.com/sparkutils/) represents a colle
 
 Contribution to the [CALM Project](https://github.com/finos/architecture-as-code) providing unique-id labelling to the CALM Widgets.
 
+### VLLM Project
+
+Contribution of bug fixes to the [VLLM Project](https://github.com/vllm-project/vllm) increasing the robustness of GPU quantization support and various debugging information improvements.
+
 ### Coming Soon
 
 Contributions to the [FINOS Common Domain Model](https://github.com/UBS-AG/finos_common-domain-model) and [backstage_community-plugins](https://github.com/UBS-AG/backstage_community-plugins)
